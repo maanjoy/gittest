@@ -1,0 +1,42 @@
+[33mcommit 7508177ce99848746e95ab9e230dd4abf5790f2c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 7ae984c 3089c8d
+Author: Denny <maanjoy@hotmail.com>
+Date:   Sun Jun 10 21:01:01 2018 +0800
+
+    m2
+
+[33mcommit 7ae984caf47b07113c8a7075aa853d3ae697e5b6[m
+Author: Denny <maanjoy@hotmail.com>
+Date:   Sun Jun 10 20:56:46 2018 +0800
+
+    master
+
+[33mcommit 3089c8d656e52552189ca0a7efad93256c7cd564[m[33m ([m[1;32mdev[m[33m)[m
+Author: Denny <maanjoy@hotmail.com>
+Date:   Sun Jun 10 20:55:32 2018 +0800
+
+    dev1
+
+[33mcommit d7bac05f27f3c500b370159f32fe869fbe8d183a[m
+Author: Denny <maanjoy@hotmail.com>
+Date:   Sun Jun 10 20:49:16 2018 +0800
+
+    dev
+
+[33mcommit 8b80b6e6895239bcb8924b55427db235e0236f4c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Denny <maanjoy@hotmail.com>
+Date:   Sun Jun 10 20:28:33 2018 +0800
+
+    delete
+
+[33mcommit cc256185e68ca371cb523562cf3dbcfe53b4b5dd[m
+Author: Denny <maanjoy@hotmail.com>
+Date:   Sun Jun 10 19:58:28 2018 +0800
+
+    status
+
+[33mcommit 825d3e6b67833cc9cda719ad3fb0f8aac9606e7f[m
+Author: Denny <maanjoy@hotmail.com>
+Date:   Sun Jun 10 19:45:12 2018 +0800
+
+    hello
